@@ -35,7 +35,6 @@
             { "label": "flappybird", "uid": "RW_FLPB_01" },
             { "label": "caelus", "uid": "RW_CLS_01" },
             { "label": "caeluslegacy", "uid": "RW_CLS_01" },
-            { "label": "winrtmetroinstaller", "uid": "RW_WMI_01" },
             { "label": "minionrush", "uid": "RW_DMMR_01" },
             { "label": "farmingsimulator14", "uid": "RW_FS14_01" },
             { "label": "farmingsimulator14WinRT", "uid": "RW_FS14WinRT_01" },

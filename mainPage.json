@@ -163,13 +163,6 @@
                         {"uid": "RW_FS14WinRT_01", "label": "farmingsimulator14WinRT"}
                     ]
                 },
-                "winphone_apps": {
-                    "title": "Windows Phone",
-                    "internal_code": "RW-WIN-PHONE",
-                    "payload": [
-                        
-                    ]
-                },
                 "collections_registry": {
                     "title": "Collections",
                     "internal_code": "RW-COLL-008",
