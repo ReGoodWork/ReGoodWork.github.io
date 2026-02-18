@@ -156,11 +156,18 @@
                     ]
                 },
                 "winrt_apps": {
-                    "title": "Windows RT",
-                    "internal_code": "RW-WIN-RT",
+                    "title": "Binbows 9",
+                    "internal_code": "RW-BIN-9",
                     "payload": [
                         {"uid": "RW_WMI_01", "label": "winrtmetroinstaller"},
                         {"uid": "RW_FS14WinRT_01", "label": "farmingsimulator14WinRT"}
+                    ]
+                },
+                "binfone_apps": {
+                    "title": "Binbows Fone",
+                    "internal_code": "RW-BIN-FONE",
+                    "payload": [
+
                     ]
                 },
                 "collections_registry": {
